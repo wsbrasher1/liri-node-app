@@ -1,0 +1,7 @@
+
+******Begin Spotify Log Entry******
+Artist: George Strait
+Song Name: Unwound
+ Preview Link: https://api.spotify.com/v1/tracks/1zQBO3qNSeJVuHZTwZ7Wx6
+Album Name: Strait Country
+******End Spotify Log Entry******
