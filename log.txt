@@ -1,7 +1,19 @@
 
+
 ******Begin Spotify Log Entry******
-Artist: George Strait
-Song Name: Unwound
- Preview Link: https://api.spotify.com/v1/tracks/1zQBO3qNSeJVuHZTwZ7Wx6
-Album Name: Strait Country
+Artist: AC/DC
+Song Name: Back In Black
+ Preview Link: https://api.spotify.com/v1/tracks/08mG3Y1vljYA6bvDt4Wqkj
+Album Name: Back In Black
 ******End Spotify Log Entry******
+******Begin Movie Log Entry******
+Movie Title: The Bourne Identity
+Year released: 2002
+Plot: A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.
+Actors: Matt Damon, Franka Potente, Chris Cooper, Clive Owen
+******End Movie Log Entry******
+******Begin Concert Log Entry******
+Name of the Artist: incubus
+Name of venue: Clayton's Beach Bar
+ Date of event: 05-25-2019
+******End Concert Log Entry******
