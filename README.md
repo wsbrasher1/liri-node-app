@@ -37,6 +37,7 @@ SPOTIFY_SECRET="replace with your Spotify Secret"
 
 ## Demo
 Here is a link to a video demonstration that further explains the application and walks you through its functionality:
+https://drive.google.com/file/d/1kKLwSi3O_RvVRAGh4plOXXKk_2tyCUdn/view
 
 
 
